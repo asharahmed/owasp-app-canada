@@ -94,7 +94,7 @@
         <footer className="bg-gray-100 py-4">
   <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center relative">
   
-    <p className="text-sm text-gray-600 absolute top-1/2 transform -translate-y-1/2 w-full"><a href="https://aahmed.ca">© 2023 Top 10 Canada. Made in Canada by Ashar Ahmed.</a></p>
+    <p className="text-sm text-gray-600 absolute top-1/2 transform -translate-y-1/2 w-full"><a href="https://aahmed.ca">© 2023 Ashar Ahmed. Made in Canada by Ashar Ahmed.</a></p>
   </div>
 </footer>
 
