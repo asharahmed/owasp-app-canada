@@ -24,7 +24,9 @@
 
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
     <header className="flex flex-col sm:flex-row items-center justify-between py-4">
-      <h1 className="text-3xl font-bold text-gray-900">Top 10 Guide for 🇨🇦 Developers</h1>
+      <h1 className="text-3xl font-bold text-gray-900">
+        
+        Top 10 Guide for 🇨🇦 Developers</h1>
      
 
       <nav className="flex flex-col sm:flex-row items-center">
@@ -46,6 +48,7 @@
           <main>
             <p className="text-xl font-bold text-gray-900">This web app is Top 10 Canada, a website that lists and provides links to the top 10 potential vulnerabilities in Canadian government systems as identified by OWASP.
             <br/><br/>This app is intended to be used by developers and security professionals to help identify and mitigate vulnerabilities in their critical infrastructure / systems.
+
             </p>
             <br/>
 
@@ -94,7 +97,8 @@
 
 
         <footer className="bg-gray-100 py-4">
-  <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center relative">
+
+  <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center relative"  style={{textAlign: "center"}}>
   
     <p className="text-sm text-gray-600 absolute top-1/2 transform -translate-y-1/2 w-full"><a href="https://aahmed.ca">© 2023 Ashar Ahmed. Made in Canada by Ashar Ahmed.</a></p>
   </div>
