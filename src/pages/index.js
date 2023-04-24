@@ -3,7 +3,7 @@
   import { Inter } from 'next/font/google'
   import styles from '@/styles/Home.module.css'
   import 'materialize-css/dist/css/materialize.min.css';
-  import { FaChevronRight } from 'react-icons/fa';
+  import { FaChevronRight, FaLaptop } from 'react-icons/fa';
   import { FaChevronLeft } from 'react-icons/fa';
   import { FaLaptopBinary } from 'react-icons/fa';
   import { FaLaptopCode } from 'react-icons/fa';
@@ -32,8 +32,8 @@
     <li className="w-full sm:w-auto">
       
       <a href="https://aahmed.ca/" className="text-gray-600 hover:text-gray-900 flex items-center">
-        This App presents OWASP Top 10 vulnerabilities that may be of use for federal developers.
-        <i className="material-icons left align"><FaCanadianMapleLeaf /></i>
+        This app presents OWASP Top 10 vulnerabilities that may be of use for federal developers.
+        <i className="material-icons left align"><FaLaptopCode /></i>
 
       </a>
     </li>
