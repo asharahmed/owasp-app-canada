@@ -1,4 +1,4 @@
-# OWASP Top 10 Guide for Canadian Developers and Security Operations Experts
+# OWASP Top 10 Guide for Canadian Security Developers 
 
 ![](https://top10-canada.netlify.app/top10.png)
 
