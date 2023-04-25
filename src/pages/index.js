@@ -26,7 +26,7 @@
     <header className="flex flex-col sm:flex-row items-center justify-between py-4">
       <h1 className="text-3xl font-bold text-gray-900">
         
-        Top 10 Guide for 🇨🇦 Developers</h1>
+        Top 10 Guide for 🇨🇦 Security Developers</h1>
      
 
       <nav className="flex flex-col sm:flex-row items-center">
