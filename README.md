@@ -1,6 +1,6 @@
 # OWASP Top 10 Guide for 🇨🇦 Security Developers 
 
-![](https://top10-canada.netlify.app/top10.png)
+![](https://github.com/asharahmed/owasp-app-canada/raw/main/public/top10.png)
 
 This web application aims to provide a guide to the OWASP Top 10 vulnerabilities for developers in Canada. It uses Next.js, React, and Tailwind CSS, along with React Icons. The application is hosted on Netlify.
 
