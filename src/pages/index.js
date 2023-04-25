@@ -34,7 +34,7 @@
     <li className="w-full sm:w-auto">
       
       <a href="https://owasp.org/www-project-top-ten/" className="text-gray-600 hover:text-gray-900 flex items-center">
-        <br/>This app presents OWASP Top 10 vulnerabilities that may be of use for federal developers.
+        This app presents OWASP Top 10 vulnerabilities that may be of use for federal developers.
         <i className="material-icons left align"><FaLaptopCode /></i>
 
       </a>
@@ -47,7 +47,7 @@
 
           <main>
             <p className="text-xl font-bold text-gray-900">This web app is Top 10 Canada, a website that lists and provides links to the top 10 potential vulnerabilities in Canadian government systems as identified by OWASP.
-            <b> Information is provided courtesy of <a href="https://owasp.org/">The Open Web Application Security Foundation (https://owasp.org/)</a>.</b>
+            <br/><br/><b> Information is provided courtesy of <a href="https://owasp.org/">The Open Web Application Security Foundation (https://owasp.org/)</a>.</b>
             <br/><br/>This app is intended to be used by developers and security professionals to help identify and mitigate vulnerabilities in their critical infrastructure / systems.
 
             </p>
