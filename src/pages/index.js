@@ -47,7 +47,7 @@
 
           <main>
             <p className="text-xl font-bold text-gray-900">This web app is Top 10 Canada, a website that lists and provides links to the top 10 potential vulnerabilities in Canadian government systems as identified by OWASP.
-            <b> Information is provided courtesy of <a href="https://owasp.org/">https://owasp.org/</a>.</b>
+            <b> Information is provided courtesy of <a href="https://owasp.org/">The Open Web Application Security Foundation(https://owasp.org/)</a>.</b>
             <br/><br/>This app is intended to be used by developers and security professionals to help identify and mitigate vulnerabilities in their critical infrastructure / systems.
 
             </p>
