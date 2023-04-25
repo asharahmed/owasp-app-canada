@@ -33,7 +33,7 @@
   <ul className="flex flex-wrap sm:flex-nowrap items-center justify-center sm:justify-start space-x-4 sm:space-x-8">
     <li className="w-full sm:w-auto">
       
-      <a href="https://aahmed.ca/" className="text-gray-600 hover:text-gray-900 flex items-center">
+      <a href="https://owasp.org/www-project-top-ten/" className="text-gray-600 hover:text-gray-900 flex items-center">
         This app presents OWASP Top 10 vulnerabilities that may be of use for federal developers.
         <i className="material-icons left align"><FaLaptopCode /></i>
 
